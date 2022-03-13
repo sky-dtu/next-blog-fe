@@ -1,0 +1,22 @@
+.main {
+    margin: auto;
+    margin-top: 5rem;
+    width: 750px;
+    max-width: calc(100vw-50px);
+}
+
+.title {
+    text-align: center;
+}
+
+.mainImage {
+    width: 100%;
+}
+
+.body p {
+    font-size: 1rem;
+    text-indent: 3rem;
+    line-height: 1.5rem;
+    text-align: justify;
+    letter-spacing: 0.05rem;
+}

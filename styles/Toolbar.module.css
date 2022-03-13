@@ -1,0 +1,22 @@
+.main {
+    margin: auto;
+    width: 100vw;
+    display: flex;
+    max-width: 100%;
+    color: white;
+    margin-bottom: 50px;
+    justify-content: center;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    /* left: 0; */
+}
+
+.main div {
+    margin: 25px;
+    cursor: pointer;
+}
+
+.main div:hover {
+    color: aqua;
+}
